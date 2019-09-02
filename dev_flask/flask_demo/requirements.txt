@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+flask
+flasgger==0.8.1

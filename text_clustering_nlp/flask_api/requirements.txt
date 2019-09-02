@@ -1,0 +1,8 @@
+numpy
+pandas
+xlsxwriter
+stemming
+scikit-learn
+flask
+flasgger==0.8.1
+mod_wsgi
